@@ -1,0 +1,74 @@
+ID,State Name,ST,Zip Code
+6,Alaska,AK,99501
+5,Alabama,AL,35004
+69,Arkansas,AR,71601
+8,Arkansas (Texarkana),AR,75502
+7,Arizona,AZ,85001
+9,california,CA,90001
+10,Colorado,CO,80001
+11,Connecticut,CT,6001
+73,Connecticut,CT,6401
+13,Dist of Columbia,DC,20001
+74,Dist of Columbia,DC,20042
+63,Dist of Columbia,DC,20799
+12,Delaware,DE,19701
+14,Florida,FL,32004
+15,Georgia,GA,30001
+65,Georga (Atlanta),GA,39901
+16,Hawaii,HI,96701
+20,Iowa,IA,50001
+66,Iowa (OMAHA),IA,68119
+17,Idaho,ID,83201
+18,Illinois,IL,60001
+19,Indiana,IN,46001
+21,Kansas,KS,66002
+22,Kentucky,KY,40003
+68,Louisiana,LA,70001
+23,Louisiana,LA,71234
+26,Massachusetts,MA,1001
+58,Massachusetts (Andover),MA,5501
+77,Maryland,MD,20331
+78,Maryland,MD,20335
+25,Maryland,MD,20812
+24,Maine,ME,3901
+27,Michigan,MI,48001
+28,Minnesota,MN,55001
+57,kc96 DataMO,MO,63001
+29,Mississippi,MS,38601
+59,Mississippi(Warren),MS,71233
+31,Montana,MT,59001
+38,North Carolina,NC,27006
+39,North Dakota,ND,58001
+67,Nebraska,NE,68001
+32,Nebraska,NE,68122
+34,New Hampshire,NH,3031
+35,New Jersey,NJ,7001
+36,New Mexico,NM,87001
+33,Nevada,NV,88901
+60,New York (Fishers Is),NY,6390
+37,New York,NY,10001
+40,Ohio,OH,43001
+70,Oklahoma,OK,73001
+41,Oklahoma,OK,73401
+42,Oregon,OR,97001
+43,Pennsylvania,PA,15001
+44,Puerto Rico,PR,0
+45,Rhode Island,RI,2801
+46,South Carolina,SC,29001
+47,South Dakota,SD,57001
+48,Tennessee,TN,37010
+49,Texas (Austin),TX,73301
+71,Texas,TX,75001
+72,Texas,TX,75503
+61,Texas (El Paso),TX,88510
+50,Utah,UT,84001
+64,Virginia,VA,20040
+75,Virginia,VA,20040
+76,Virginia,VA,20042
+52,Virginia,VA,22001
+51,Vermont,VT,5001
+62,Vermont,VT,5601
+53,Washington,WA,98001
+55,Wisconsin,WI,53001
+54,West Virginia,WV,24701
+56,Wyoming,WY,82001
